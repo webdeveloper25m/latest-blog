@@ -1,0 +1,58 @@
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "Megam Solutions"
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  blog = "/:filename/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Blog"
+    pre = "edit"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "About Us"
+    pre = "edit"
+    url = "#about"
+    weight = 4
+ [[menu.main]]
+    name = "Contact Us"
+    pre = "edit"
+    url = "/contact/"
+    weight = 5
+
+[[menu.footer]]
+    name = "GitHub"
+    url = "https://github.com/pakstech"
+    pre = "<i class='fab fa-github'></i>"
+
+[[menu.footer]]
+    name = "YouTube"
+    url = "https://www.youtube.com/channel/UCg_e3UBPs-BxPo_jVg1gGOQ"
+    pre = "<i class='fab fa-youtube'></i>"
+
+[[menu.footer]]
+    name = "Twitter"
+    url = "https://twitter.com/pakstech"
+    pre = "<i class='fab fa-twitter'></i>"
+
+[params]
+  containerMaxWidth = "700px"
+  dateFormat = "Jan 2, 2006"
+  homeText = "You just made a Digital Transformations."

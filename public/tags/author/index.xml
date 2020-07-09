@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Author on Megam Solutions for Your Business Digital Transformation</title>
+    <link>http://example.com/tags/author/</link>
+    <description>Recent content in Author on Megam Solutions for Your Business Digital Transformation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Jan 2019 20:28:42 -0600</lastBuildDate>
+    
+	<atom:link href="http://example.com/tags/author/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Networking</title>
+      <link>http://example.com/networking/</link>
+      <pubDate>Sun, 13 Jan 2019 20:28:42 -0600</pubDate>
+      
+      <guid>http://example.com/networking/</guid>
+      <description>Cloud Native Services
+Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.
+Our team have expertise in Distributed Networking architecture combined with microservice based application development with lean development methodology with good governance of communication with all stakeholder provide predictable and timely deliver.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Solutions</title>
+      <link>http://example.com/cloud-solutions/</link>
+      <pubDate>Sat, 12 Jan 2019 23:24:54 -0600</pubDate>
+      
+      <guid>http://example.com/cloud-solutions/</guid>
+      <description>Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.
+Our team have expertise in Distributed Networking architecture combined with microservice based application development with lean development methodology with good governance of communication with all stakeholder provide predictable and timely deliver.</description>
+    </item>
+    
+    <item>
+      <title>Traning</title>
+      <link>http://example.com/traning/</link>
+      <pubDate>Sat, 12 Jan 2019 22:14:57 -0600</pubDate>
+      
+      <guid>http://example.com/traning/</guid>
+      <description>Upskill your workforce for the Digital Age</description>
+    </item>
+    
+  </channel>
+</rss>

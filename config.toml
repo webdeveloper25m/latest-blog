@@ -1,0 +1,52 @@
+baseURL = "http://example.com/"
+languageCode = "en-us"
+title = "Megam Solutions for Your Business Digital Transformation"
+featured_image='/images/landing-page.jpg'
+theme="blog"
+
+
+[taxonomies]
+  tag = "tags"
+  categories="categories"
+
+[permalinks]
+  blog = "/:filename/"
+
+# See https://feathericons.com/
+# The value of pre is the icon name
+[menu]
+  [[menu.main]]
+    name = "Home"
+    pre = "home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Categories"
+    pre = "grid"
+    url = "/blog/"
+    weight = 2
+  [[menu.main]]
+    name = "Tags"
+    pre = "tag"
+    url = "/tags/"
+    weight = 3
+  [[menu.main]]
+    name = "About Us"
+    pre = "user"
+    url = "/about/"
+    weight = 4
+ [[menu.main]]
+    name = "Contact Us"
+    pre = "edit"
+    url = "/contact/"
+    weight = 5
+
+[params]
+  containerMaxWidth = "700px"
+  dateFormat = "Jan 2, 2006"
+  homeText = "You just made a Digital Transformations."
+
+  [params.contact]
+enable      = true
+title       = "Get In Touch"
+subtitle    = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex"
