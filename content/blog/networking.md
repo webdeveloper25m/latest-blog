@@ -1,12 +1,14 @@
 ---
-title: "Networking"
-date: 2019-01-13T20:28:42-06:00
+title: "Networking-Introduction"
+date: "2020-07-09T16:20:04-07:00"
 tags: ["Author", "article"]
-categories: ["jjjjjjjj"]
+categories: ["Networking"]
+images:
+  - /images/networking2.jpg
 draft: false
 ---
 
-{{< figure src="/images/networking.jpg" >}}
+{{< figure src="/images/networking2.jpg" >}}
 
 Cloud Native Services
 

@@ -1,0 +1,55 @@
+<!---
+{{ $permalink := .Permalink }}
+<div class="row">
+<div class="col-8">
+ <div class="card">
+    <div class="card-image">
+        <figure class="image is-3by2">
+            {{ with .Params.images }}
+            <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt=""></a>
+            {{ end }}
+        </figure>
+    </div>
+    <div class="card-body">
+      <h5 class="card-title"><a class="title is-4" href="{{ .Permalink }}">{{ .Title }}</a></h5>
+       <span class="heading">{{ .Site.Params.Author }} | <time>{{ .PublishDate.Format "January 2, 2006"}}</time></span>
+      <div class="content">
+            {{ .Summary }}
+        </div>
+    </div>
+    <div class="card-footer">
+      {{ range .Params.categories }}
+            <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a>
+            {{ end }}
+    </div>
+  </div>
+</div>
+</div>--->
+ 
+
+
+
+{{ $permalink := .Permalink }}
+<div class="card mb-3">
+    <div class="card-image">
+        <figure class="image is-3by2">
+            {{ with .Params.images }}
+            <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt=""></a>
+            {{ end }}
+        </figure>
+    </div>
+    <div class="card-content">
+        <h5> <a class="title is-4" href="{{ .Permalink }}">{{ .Title }}</a></h5>
+        <p class="heading mb-2">{{ .Site.Params.Author }} | <time>{{ .PublishDate.Format "January 2, 2006"}}</time></p>
+
+        <div class="content mb-2">
+            {{ .Summary }}
+        </div>
+
+        <button class="tags is-pulled-right btn btn-dark  mb-2 ">
+            {{ range .Params.categories }}
+            <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a>
+            {{ end }}
+        </button>
+    </div>
+</div>

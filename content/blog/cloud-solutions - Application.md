@@ -1,14 +1,14 @@
 ---
-title: "Cloud Solutions- Indroduction"
-date: 2020-07-08T22:24:54-06:00
+title: "Cloud Solutions Applications"
+date: 2020-07-09T14:24:54-06:00
 categories: ["Cloud"]
 tags: ["Author", "document"]
 images:
-  - /images/cloud04.jpg
+  - /images/cloud02.jpg
 draft: false
 ---
 
-{{< figure src="/images/cloud04.jpg" >}}
+{{< figure src="/images/cloud02.jpg" >}}
 
 Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.
 

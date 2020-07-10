@@ -1,14 +1,16 @@
 ---
-title: "Cloud Solutions- Indroduction"
-date: 2020-07-08T22:24:54-06:00
-categories: ["Cloud"]
-tags: ["Author", "document"]
+title: "Networking Basics"
+date: 2020-07-09T18:28:42-06:00
+tags: ["Author", "article"]
 images:
-  - /images/cloud04.jpg
+  - /images/networking2.jpg
+categories: ["Networking"]
 draft: false
 ---
 
-{{< figure src="/images/cloud04.jpg" >}}
+{{< figure src="/images/networking2.jpg" >}}
+
+Cloud Native Services
 
 Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.
 

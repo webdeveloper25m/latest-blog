@@ -4,11 +4,12 @@
   <h1>{{ .Site.Title }}</h1>
   <p class="font-125">{{ .Site.Params.homeText | markdownify }}</p>
 </div>
+<h1 class="text-center text-red">From Blog</h1>
 <div class="card-deck">
   <div class="card">
-    <img class="card-img-top" src="/images/networking.jpg" alt="Card image cap">
+   <a href="categories/networking/" ><img class="card-img-top" src="/images/networking.jpg" alt="Card image cap"></a>
     <div class="card-body">
-      <h5 class="card-title">Networking</h5>
+     <h5> <a class="title is-4" href="categories/networking/">Networking</a></h5>
       <p class="card-text">Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.</p>
     </div>
     <div class="card-footer">
@@ -16,9 +17,9 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="images/cloud.jpg" alt="Card image cap">
+    <a href="categories/cloud/" > <img class="card-img-top" src="images/cloud.jpg" alt="Card image cap"></a>
     <div class="card-body">
-      <h5 class="card-title">Cloud Solution</h5>
+      <h5> <a class="title is-4" href="categories/networking/">Cloud Solution</a></h5>
       <p class="card-text">Key offerings are Full Stack development(using REACT/Angular, HTML5, CSS, Javascript, Typescript, Redis, MySQL, MongoDB, DynamoDB) for web and mobile application which can deployed in AWS, GCP, MS Azure, DigitalOcean or private cloud service providers</p>
     </div>
     <div class="card-footer">
@@ -26,9 +27,9 @@
     </div>
   </div>
   <div class="card">
-    <img class="card-img-top" src="images/traning1.jpg" alt="Card image cap">
+    <a href="categories/traning/" > <img class="card-img-top" src="images/traning1.jpg" alt="Card image cap">
     <div class="card-body">
-      <h5 class="card-title">Traning</h5>
+      <h5> <a class="title is-4" href="categories/traning/">Training</a></h5>
       <p class="card-text">Business process with clear rules is the good candidate for automation. while processes that rely on large quantities of data to produce insights or recommendations may be candidates for AI.</p>
     </div>
     <div class="card-footer">
@@ -36,7 +37,6 @@
     </div>
   </div>
 </div>
-
 
 
 {{ end }}
