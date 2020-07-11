@@ -2,7 +2,8 @@
 title: "Cloud Solutions- Indroduction"
 date: 2020-07-08T22:24:54-06:00
 categories: ["Cloud"]
-tags: ["Author", "document"]
+tags: ["Steve", "Document","cloud"]
+Author: "Steve"
 images:
   - /images/cloud04.jpg
 draft: false
