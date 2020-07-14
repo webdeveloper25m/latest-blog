@@ -1,8 +1,9 @@
 ---
 title: "Css"
 date: 2020-07-10T19:41:33+05:30
-tags: ["frontend-course","css"]
-categories: ["webdevelopment"]
+tags: ["frontend-course","css","sass"]
+categories: ["webdevelopment","Digital Marketing"]
+Author: "Mark"
 images:
   - /images/css.jpg
 draft: false

@@ -4,7 +4,7 @@ date: 2020-07-09T20:28:42-06:00
 tags: ["Steve", "article","networking"]
 images:
   - /images/networking2.jpg
-categories: ["Networking"]
+categories: ["Networking","Cloud"]
 Author: "Steve"
 draft: false
 ---

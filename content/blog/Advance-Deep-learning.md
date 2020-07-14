@@ -2,11 +2,11 @@
 title: "Advance Deep Learning"
 date: 2020-07-10T17:10:21+05:30
 tags: ["Advanced-course","video","Document"]
-categories: ["Aritifical Intelligence"]
+categories: ["Artificial Intelligence","Python"]
 images:
   - /images/deeplearning.jpg
 draft: false
-
+Author: "John"
 ---
 
 {{< figure src="/images/deeplearning.jpg" >}}

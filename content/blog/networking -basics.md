@@ -4,7 +4,7 @@ date: 2020-07-09T18:28:42-06:00
 tags: ["Mark","networking"]
 images:
   - /images/networking.jpg
-categories: ["Networking"]
+categories: ["Networking","Traning"]
 Author: "Mike"
 draft: false
 ---

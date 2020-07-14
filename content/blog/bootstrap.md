@@ -2,10 +2,11 @@
 
 title: "Bootstrap"
 date: 2020-07-10T19:42:26+05:30
-tags: ["frontend-course","Article","bootstrap"]
-categories: ["webdevelopment"]
+tags: ["frontend-course","Article","bootstrap","css","html"]
+categories: ["Digital Marketing","webdevelopment"]
 images:
   - /images/download.jpg
+Author : "Steve"
 draft: false
 
 ---

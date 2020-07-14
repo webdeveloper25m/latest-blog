@@ -2,9 +2,10 @@
 title: "Advance Machine Learning"
 date: 2020-07-10T17:14:05+05:30
 tags: [Advanced-course","video","Document"]
-categories: ["Aritifical Intelligence"]
+categories: ["Artificial Intelligence","Python"]
 images:
   - /images/machine.jpg
+Author: "John"
 draft: false
 
 ---

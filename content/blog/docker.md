@@ -2,7 +2,8 @@
 title: "Docker"
 date: 2020-07-10T15:16:44+05:30
 tags: ["Advanced-course","container"]
-categories: ["Cloud"]
+categories: ["Cloud","Webdevelopment"]
+Author: "kennady"
 images:
   - /images/docker.jpg
 draft: false

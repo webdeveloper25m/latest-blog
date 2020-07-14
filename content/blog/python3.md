@@ -3,7 +3,8 @@
 title: "Python3"
 date: 2020-07-10T17:01:50+05:30
 tags: ["Article","basic-course","python3","programming"]
-categories: ["Traning"]
+categories: ["Python"]
+Author: "Mark"
 images:
   - /images/python1.jpg
 draft: false

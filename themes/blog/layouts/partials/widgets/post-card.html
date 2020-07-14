@@ -46,10 +46,11 @@
             {{ .Summary }}
         </div>
 
-        <button class="tags is-pulled-right btn btn-dark  mb-2 ">
-            {{ range .Params.categories }}
-            <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a>
-            {{ end }}
-        </button>
+       <div class="tags is-pulled-left">
+    {{ range .Params.categories }}
+   <button class="btn btn-dark"> <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a></button>
+    ,
+    {{ end }}
+</div>
     </div>
 </div>

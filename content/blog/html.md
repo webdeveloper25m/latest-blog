@@ -4,6 +4,7 @@ title: "Html"
 date: 2020-07-10T19:41:47+05:30
 tags: ["frontend-course","html","Document"]
 categories: ["webdevelopment"]
+Author: "Kennady"
 images:
   - /images/html.jpg
 draft: false

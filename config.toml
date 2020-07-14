@@ -3,11 +3,12 @@ languageCode = "en-us"
 title = "Megam Solutions for Your Business Digital Transformation"
 featured_image='/images/landing-page.jpg'
 theme="blog"
-paginate = 6
+paginate = 10
 
 [taxonomies]
   tag = "tags"
-  categories="categories"
+  category="categories"
+  mood="moods"
 
 [permalinks]
   blog = "/:filename/"

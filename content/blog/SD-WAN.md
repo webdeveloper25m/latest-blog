@@ -4,6 +4,7 @@ title: "SD WAN"
 date: 2020-07-10T17:07:14+05:30
 tags: ["networking","Document"]
 categories: ["Networking"]
+Author : "John"
 images:
   - /images/networking2.jpg
 draft: false

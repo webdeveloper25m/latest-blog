@@ -1,8 +1,9 @@
 ---
 title: "Sass"
 date: 2020-07-10T19:42:35+05:30
-tags: ["frontend-course","sass"]
+tags: ["frontend-course","sass","css","html"]
 categories: ["webdevelopment"]
+Author : "Mike"
 images:
   - /images/sass.jpg
 draft: false

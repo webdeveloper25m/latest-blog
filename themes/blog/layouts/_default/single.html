@@ -1,5 +1,25 @@
 {{ define "main" }}
 
 <h1>{{ .Title }}</h1>
+ <div class="card-content">
+        <p class="heading mb-2">{{ .Params.Author }} | <time>{{ .PublishDate.Format "January 2, 2006"}}</time></p>
+</div>
+<div>
+{{ with .Params.tags }}
+
+  <i data-feather="tag"></i>
+  {{ range . }}
+  {{ $href := print (absURL "tags/") (urlize .) }}
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
+  {{ end }}
+{{ end }}
+</div>
+<div class="tags is-pulled-right">
+	<i data-feather="grid"></i>
+    {{ range .Params.categories }}
+    <button class="btn btn-dark"><a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a></button>
+    {{ end }}
+</div>
+<br>
 {{ .Content }}
 {{ end }}

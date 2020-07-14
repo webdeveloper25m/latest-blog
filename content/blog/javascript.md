@@ -4,6 +4,7 @@ title: "Javascript"
 date: 2020-07-10T19:41:59+05:30
 tags: ["frontend-course","script","programming"]
 categories: ["webdevelopment"]
+Author: "Travis"
 images:
   - /images/javascript.jpg
 draft: false

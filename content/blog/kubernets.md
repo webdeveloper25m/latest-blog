@@ -2,7 +2,8 @@
 title: "Kubernets"
 date: 2020-07-10T15:16:54+05:30
 tags: ["Advanced-course", "article","video","container"]
-categories: ["Cloud"]
+categories: ["Cloud","Python"]
+Author: "Travis"
 images:
   - /images/kubernets1.jpg
 draft: false1
