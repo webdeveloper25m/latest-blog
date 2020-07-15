@@ -4,7 +4,7 @@ title: "Python3"
 date: 2020-07-10T17:01:50+05:30
 tags: ["Article","basic-course","python3","programming"]
 categories: ["Python"]
-Author: "Mark"
+Author: "Author"
 images:
   - /images/python1.jpg
 draft: false

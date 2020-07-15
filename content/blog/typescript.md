@@ -3,13 +3,13 @@ title: "Typescript"
 date: 2020-07-10T19:42:11+05:30
 tags: ["frontend-course","script","programming"]
 categories: ["webdevelopment"]
-Author: "Travis"
+Author: "Author"
 images:
-  - /images/typescript.jpg
+  - /images/typescript1.jpg
 draft: false
 ---
 
-{{< figure src="/images/typescript.jpg" >}}
+{{< figure src="/images/typescript1.jpg" >}}
 
 Typescript
 

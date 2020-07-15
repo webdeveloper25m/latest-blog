@@ -3,7 +3,7 @@ title: "Networking-Introduction"
 date: 2020-07-09T16:20:04-07:00
 tags: ["Mark", "Article","networking"]
 categories: ["Networking"]
-Author: "Mark"
+Author: "Author"
 images:
   - /images/networking2.jpg
 draft: false

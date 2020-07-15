@@ -1,16 +1,16 @@
 ---
 title: "Advance Machine Learning"
 date: 2020-07-10T17:14:05+05:30
-tags: [Advanced-course","video","Document"]
+tags: ["Advanced-course","video","Document"]
 categories: ["Artificial Intelligence","Python"]
 images:
-  - /images/machine.jpg
-Author: "John"
+  - /images/ai.jpg
+Author: "Author"
 draft: false
 
 ---
 
-{{< figure src="/images/machine.jpg" >}}
+{{< figure src="/images/ai.jpg" >}}
 
 Advance Machine Learning
 

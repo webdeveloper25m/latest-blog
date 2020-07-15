@@ -6,7 +6,7 @@ tags: ["frontend-course","Article","bootstrap","css","html"]
 categories: ["Digital Marketing","webdevelopment"]
 images:
   - /images/download.jpg
-Author : "Steve"
+Author : "Author"
 draft: false
 
 ---

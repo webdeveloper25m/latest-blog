@@ -4,7 +4,7 @@ title: "SDN"
 date: 2020-07-10T17:04:35+05:30
 tags: ["Mark", "article","sdn","networking"]
 categories: ["Networking"]
-Author: "Mike"
+Author: "Author"
 images:
   - /images/networking2.jpg
 draft: false

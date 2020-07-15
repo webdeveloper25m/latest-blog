@@ -3,7 +3,7 @@ title: "Machine Learning Python3"
 date: 2020-07-10T17:14:48+05:30
 tags: ["Video","Advanced-course","python3"]
 categories: ["Artificial Intelligence","Python"]
-Author: "Steve"
+Author: "Author"
 images:
   - /images/machinepython.jpg
 draft: false

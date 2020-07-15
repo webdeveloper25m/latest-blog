@@ -3,7 +3,7 @@ title: "Cloud Solutions Applications"
 date: 2020-07-09T14:24:54-06:00
 categories: ["Cloud","Networking"]
 tags: ["Steve", "Document","cloud","networking"]
-Author: "Steve"
+Author: "Author"
 images:
   - /images/cloud02.jpg
 draft: false

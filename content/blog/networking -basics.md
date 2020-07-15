@@ -5,7 +5,7 @@ tags: ["Mark","networking"]
 images:
   - /images/networking.jpg
 categories: ["Networking","Traning"]
-Author: "Mike"
+Author: "Author"
 draft: false
 ---
 

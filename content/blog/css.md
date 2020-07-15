@@ -3,13 +3,13 @@ title: "Css"
 date: 2020-07-10T19:41:33+05:30
 tags: ["frontend-course","css","sass"]
 categories: ["webdevelopment","Digital Marketing"]
-Author: "Mark"
+Author: "Author"
 images:
-  - /images/css.jpg
+  - /images/css1.jpg
 draft: false
 ---
 
-{{< figure src="/images/css.jpg" >}}
+{{< figure src="/images/css1.jpg" >}}
 
 css3
 

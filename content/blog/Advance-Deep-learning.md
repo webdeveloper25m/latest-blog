@@ -6,7 +6,7 @@ categories: ["Artificial Intelligence","Python"]
 images:
   - /images/deeplearning.jpg
 draft: false
-Author: "John"
+Author: "Author"
 ---
 
 {{< figure src="/images/deeplearning.jpg" >}}

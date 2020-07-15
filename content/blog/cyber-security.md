@@ -3,7 +3,7 @@ title: "Cyber Security"
 date: 2020-07-10T15:15:56+05:30
 tags: ["Article","Advanced-course","cyber Security"]
 categories: ["Cyber Security"]
-Author: "John"
+Author: "Author"
 images:
   - /images/security.jpg
 draft: false
