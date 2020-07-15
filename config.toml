@@ -4,6 +4,7 @@ title = "Megam Solutions for Your Business Digital Transformation"
 featured_image='/images/landing-page.jpg'
 theme="blog"
 paginate = 4
+googleAnalytics = "UA-123-45"
 
 [taxonomies]
   tag = "tags"
@@ -52,11 +53,23 @@ paginate = 4
     url = "/contact/"
     weight = 6
 
- [[menu.main]]
-    name = "Contact Us"
-    pre = "edit"
-    url = "/contact/"
-    weight = 6
+[[menu.main]]
+    identifier = "twitter"
+    pre = "twitter"
+    url = "https://twitter.com"
+    weight = 7
+
+[[menu.main]]
+    identifier = "github"
+    pre = "github"
+    url = "https://github.com/webdeveloper25m"
+    weight = 8
+
+[[menu.main]]
+    identifier = "email"
+     pre = "mail"
+    url = "mailto:webdeveloper25m@gmail.com"
+    weight = 9
  
 
 
@@ -74,6 +87,13 @@ paginate = 4
     homeText = "You just made a Digital Transformations."
     dateFormat = "Jan 2, 2006"
     customCSS = [ "custom.css" ]
+
+  [Params.social.share]
+  facebook = true
+  linkedin = true
+  twitter = true
+  whatsapp = true
+  email = true
 
   [params.contact]
 enable      = true

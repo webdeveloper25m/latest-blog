@@ -11,3 +11,6 @@ type: edit
 
 
 {{< form-contact action="https://example.com"  class="design">}}
+
+
+{{< google-maps-direction origin="Bhavani,Tamilnadu" destination="kumarapalayam,tamilnadu" >}}
