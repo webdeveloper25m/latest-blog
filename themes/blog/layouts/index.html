@@ -13,7 +13,7 @@
           <div class="row">
             {{ range .Paginator.Pages }}
             <div class="col-6">
-             <div> {{ with .Params.tags }}
+             <div>{{ with .Params.tags }}
             <i data-feather="tag"></i>
             {{ range . }}
             {{ $href := print (absURL "tags/") (urlize .) }}
@@ -21,7 +21,7 @@
             {{ end }}
             {{ end }}
                 {{ partial "widgets/post-card.html" . }}
-          </div>  </div><hr>
+            </div></div><hr>
             {{ end }}
         </div>
         <hr>

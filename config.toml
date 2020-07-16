@@ -64,7 +64,7 @@ googleAnalytics = "UA-123-45"
 [[menu.main]]
     identifier = "github"
     pre = "github"
-    url = "https://github.com/webdeveloper25m"
+    url = "https://github.com/"
     weight = 8
 
 [[menu.main]]
