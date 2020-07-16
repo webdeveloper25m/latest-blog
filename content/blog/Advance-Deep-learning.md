@@ -5,8 +5,6 @@ tags: ["Advanced-course","video","Document"]
 categories: ["Artificial Intelligence","Python"]
 images:
   - /images/deeplearning.jpg
-draft: false
-Author: "Author"
 ---
 
 {{< figure src="/images/deeplearning.jpg" >}}
@@ -17,3 +15,5 @@ Learn the foundations of Deep Learning, understand how to build neural networks,
 
 
 {{< youtube 6M5VXKLf4D4 >}}
+
+

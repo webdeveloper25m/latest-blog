@@ -6,11 +6,11 @@ tags: ["frontend-course","script","programming"]
 categories: ["webdevelopment"]
 Author: "Author"
 images:
-  - /images/javascript.jpg
+  - /images/js.jpg
 draft: false
 ---
 
-{{< figure src="/images/javascript.jpg" >}}
+{{< figure src="/images/js.jpg" >}}
 
 Javascript
 

@@ -14,6 +14,8 @@ googleAnalytics = "UA-123-45"
 [permalinks]
   blog = "/:filename/"
 
+  
+
 # See https://feathericons.com/
 # The value of pre is the icon name
 [menu]
