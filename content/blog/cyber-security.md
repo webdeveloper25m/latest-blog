@@ -1,7 +1,7 @@
 ---
 title: "Cyber Security"
 date: 2020-07-10T15:15:56+05:30
-tags: ["Article","Advanced-course","cyber Security","Travis"]
+tags: ["servers","Information security","cyber Security","Travis","computer networks","malware","privacy of data","threats"]
 categories: ["Cyber Security"]
 Author: "Travis"
 images:

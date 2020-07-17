@@ -1,7 +1,7 @@
 ---
 title: "Docker"
 date: 2020-07-10T15:16:44+05:30
-tags: ["Advanced-course","container","Travis"]
+tags: ["software","container","Travis","Docker","Docker image"]
 categories: ["Cloud","Webdevelopment"]
 Author: "Travis"
 images:
@@ -20,17 +20,11 @@ Estimated reading time: 4 minutes
 Orientation and setupBuild and run your imageShare images on Docker Hub
 Welcome! We are excited that you want to learn Docker.
 
-This page contains step-by-step instructions on how to get started with Docker. We also recommend the video walkthrough from Dockercon 2020.
-
-
-The Docker Quickstart training module teaches you how to:
-
+This page contains step-by-step instructions on how to get started with Docker. We also recommend the video walkthrough from Dockercon 2020
+The Docker Quickstart training module teaches you how to
 Set up your Docker environment (on this page)
-
 Build and run your image
-
 Share images on Docker Hub
-
 Docker concepts
 Docker is a platform for developers and sysadmins to build, run, and share applications with containers. The use of containers to deploy applications is called containerization. Containers are not new, but their use for easily deploying applications is.
 

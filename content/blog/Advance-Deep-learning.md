@@ -1,7 +1,7 @@
 ---
 title: "Advance Deep Learning"
 date: 2020-07-10T17:10:21+05:30
-tags: ["Advanced-course","video","Document","Mike"]
+tags: ["neural networks","video","Deep Learning","Mike","NVIDIA","Convolutional networks","RNNs","Adam","PyTorch","TensorFlow"]
 categories: ["Artificial Intelligence","Python"]
 Author: "Mike"
 images:

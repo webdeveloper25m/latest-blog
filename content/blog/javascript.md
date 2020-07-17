@@ -1,8 +1,8 @@
 
 ---
 title: "Javascript"
-date: 2020-07-10T19:41:59+05:30
-tags: ["frontend-course","script","programming","Steve"]
+date: 2020-07-10T19:41:59+05:30,
+tags: ["frontend","script","programming","Steve","ECMAScript","multi-paradigm"]
 categories: ["webdevelopment"]
 Author: "Steve"
 images:

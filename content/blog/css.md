@@ -1,7 +1,7 @@
 ---
 title: "Css"
 date: 2020-07-10T19:41:33+05:30
-tags: ["frontend-course","css","sass","Steve"]
+tags: ["frontend-course","css","sass","Steve","stylesheets","Responsive"]
 categories: ["webdevelopment","Digital Marketing"]
 Author: "Steve"
 images:

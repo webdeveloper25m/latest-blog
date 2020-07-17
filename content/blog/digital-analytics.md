@@ -1,7 +1,7 @@
 ---
 title: "Digital Analytics"
 date: 2020-07-10T15:06:33+05:30
-tags: ["Video","basic-course","Document","marketing","John"]
+tags: ["Video","Digital","Analytics","digital data","Digital Intelligence",""]
 categories: ["Digital Marketing","Webdevelopment"]
 Author: "John"
 images:

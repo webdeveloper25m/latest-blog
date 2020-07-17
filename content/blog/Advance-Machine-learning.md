@@ -1,7 +1,7 @@
 ---
 title: "Advance Machine Learning"
 date: 2020-07-10T17:14:05+05:30
-tags: ["Advanced-course","video","Document","Mike"]
+tags: ["Advanced-course","video","Mike","Machine Learning","linear-algebra","NumPy","SciPy"]
 categories: ["Artificial Intelligence","Python"]
 Author: "Mike"
 images:

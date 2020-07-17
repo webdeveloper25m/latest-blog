@@ -2,7 +2,7 @@
 ---
 title: "SD WAN"
 date: 2020-07-10T17:07:14+05:30
-tags: ["networking","Document","Travis"]
+tags: ["networking","SD-WAN","Travis","WAN architecture","Iaas","Saas"]
 categories: ["Networking"]
 Author : "Travis"
 images:
@@ -17,7 +17,7 @@ SD WAN
 SD-WAN is a software-defined approach to improve applications performance, increasing agility and reducing costs with transport independence connection types
 SD-WAN simplifies the management and operation of a WAN by decoupling the networking hardware from its control mechanism.
 
-A Software-defined Wide Area Network (SD-WAN) is a virtual WAN architecture that allows enterprises to leverage any combination of transport services – including MPLS, LTE and broadband internet services – to securely connect users to applications an SD-WAN uses a centralized control function to securely. intelligently direct traffic across the WAN. This increases application performance and delivers a high quality user experience, resulting in increased business productivity, agility and reduced costs for IT.
+A Software-defined Wide Area Network (SD-WAN) is a virtual WAN architecture that allows enterprises to leverage any combination of transport services – including MPLS, LTE and broadband internet services – to securely connect users to applications an SD-WAN uses a centralized control function to securely intelligently direct traffic across the WAN This increases application performance. and delivers a high quality user experience. resulting in increased business productivity, agility and reduced costs for IT.
 
 This quick explainer video explains what SD-WAN is and why you need it.
 >> View Video

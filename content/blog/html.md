@@ -2,7 +2,7 @@
 ---
 title: "Html"
 date: 2020-07-10T19:41:47+05:30
-tags: ["frontend-course","html","Document","Steve"]
+tags: ["frontend","html","Document","Steve","markup","script","doctype","canvas"]
 categories: ["webdevelopment"]
 Author: "Steve"
 images:

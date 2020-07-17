@@ -2,7 +2,7 @@
 
 title: "Bootstrap"
 date: 2020-07-10T19:42:26+05:30
-tags: ["frontend-course","Article","bootstrap","css","html","Steve"]
+tags: ["frontend","Bootstrap","css","html","Steve","framework","stylesheets"]
 categories: ["Digital Marketing","webdevelopment"]
 Author : "Steve"
 images:
