@@ -1,16 +1,16 @@
 ---
 title: "Machine Learning Python3"
 date: 2020-07-10T17:14:48+05:30
-tags: ["Video","Advanced-course","python3"]
+tags: ["Video","Advanced-course","python3","Travis"]
 categories: ["Artificial Intelligence","Python"]
-Author: "Author"
+Author: "Travis"
 images:
-  - /images/machinepython.jpg
+  - /images/mpy1.png
 draft: false
 
 ---
 
-{{< figure src="/images/machinepython.jpg" >}}
+{{< figure src="/images/mpy1.png" >}}
 
 Machine Learning Python3
 

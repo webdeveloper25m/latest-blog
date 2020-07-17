@@ -2,9 +2,9 @@
 ---
 title: "Python3"
 date: 2020-07-10T17:01:50+05:30
-tags: ["Article","basic-course","python3","programming"]
+tags: ["Article","basic-course","python3","programming","Mike"]
 categories: ["Python"]
-Author: "Author"
+Author: "Mike"
 images:
   - /images/python1.jpg
 draft: false

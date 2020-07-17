@@ -30,11 +30,12 @@
 
 
 {{ $permalink := .Permalink }}
-<div class="card mb-3">
+
+<div class="card h-90 mb-2">
     <div class="card-image">
         <figure class="image is-3by2">
             {{ with .Params.images }}
-            <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt=""></a>
+            <a href="{{ $permalink }}"><img src="{{ index . 0 }}" alt="" class="card-img-top img-fluid"></a>
             {{ end }}
         </figure>
     </div>
@@ -42,15 +43,27 @@
         <h5> <a class="title is-4" href="{{ .Permalink }}">{{ .Title }}</a></h5>
         <p class="heading mb-2">{{ .Params.Author }} | <time>{{ .PublishDate.Format "January 2, 2006"}}</time></p>
 
-        <div class="content mb-2">
+        <div class="content mb-1">
             {{ .Summary }}
         </div>
 
-       <div class="tags is-pulled-left">
+       <div class="tags d-inline-block">
     {{ range .Params.categories }}
-   <button class="btn btn-dark"> <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a></button>
-    ,
+   <button class="btn btn-dark  mb-1"> <a class="tag is-primary is-radiusless" href="/categories/{{ . | urlize}}">{{ . }}</a></button>
     {{ end }}
+   </div>
 </div>
-    </div>
+ <div class="card-footer d-inline-block">
+    {{ with .Params.tags }}
+  <br>
+  <p class="ml-0">Tags:</p><span class="m-0 d-inline-block">
+  {{ range . }}
+  {{ $href := print (absURL "tags/") (urlize .) }}
+  <a class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
+  {{ end }}
+{{ end }}</span>
+  </div>
+
 </div>
+
+

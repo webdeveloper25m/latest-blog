@@ -1,9 +1,10 @@
 <style>
+ 
 .container {
-  max-width: {{ .Site.Params.containerMaxWidth | default "730px" | safeCSS }};
+  max-width: {{ .Site.Params.containerMaxWidth | default "1000px" | safeCSS }};
 }
 #nav{
-  max-width:730px;
+  max-width: 730px;
 }
 #nav a {
   font-weight: bold;
@@ -57,5 +58,25 @@ img {
 
 .tag{
     text-decoration: none;
+}
+.card{
+  border:2px solid #000;
+  margin: 2px;
+}
+
+.horizontal{
+  color:red;
+}
+
+.tags{
+
+  margin-bottom:0px;
+  display:inline-block;
+}
+
+.card-footer{
+ 
+  margin:0;
+  padding:0;
 }
 </style>

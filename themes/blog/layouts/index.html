@@ -8,33 +8,23 @@
 <h1 class="text-center text-red">From Blog</h1>
 <hr>
 
-<div class="container">
-    <div class="section">
+<div class="container mb-2">
+    <div class="section mb-2">
           <div class="row">
             {{ range .Paginator.Pages }}
             <div class="col-6">
-             <div>{{ with .Params.tags }}
-            <i data-feather="tag"></i>
-            {{ range . }}
-            {{ $href := print (absURL "tags/") (urlize .) }}
-            <a class="btn btn-sm btn-outline-dark tag-btn" href="{{ $href }}">{{ . }}</a>
-            {{ end }}
-            {{ end }}
-                {{ partial "widgets/post-card.html" . }}
-            </div></div><hr>
-            {{ end }}
+             {{ partial "widgets/post-card.html" . }}</div>
+
+           {{ end }}
         </div>
         <hr>
-        <div class="columns">
-            <div class="column is-narrow">
+        <div class="row">
+            <div class="column is-narrow ">
                 {{ partial "widgets/pagination.html" . }}
             </div>
         </div>
     </div>
 </div>
-
-
-
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--<div class="card-deck">
@@ -74,3 +64,9 @@
    </div>
  </div>-->
 {{ end }}
+
+
+
+
+
+

@@ -1,8 +1,9 @@
 ---
 title: "Advance Deep Learning"
 date: 2020-07-10T17:10:21+05:30
-tags: ["Advanced-course","video","Document"]
+tags: ["Advanced-course","video","Document","Mike"]
 categories: ["Artificial Intelligence","Python"]
+Author: "Mike"
 images:
   - /images/deeplearning.jpg
 ---

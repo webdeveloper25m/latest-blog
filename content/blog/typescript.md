@@ -1,15 +1,15 @@
 ---
 title: "Typescript"
 date: 2020-07-10T19:42:11+05:30
-tags: ["frontend-course","script","programming"]
+tags: ["frontend-course","script","programming","Travis"]
 categories: ["webdevelopment"]
-Author: "Author"
+Author: "Travis"
 images:
-  - /images/typescript1.jpg
+  - /images/inside.png
 draft: false
 ---
 
-{{< figure src="/images/typescript1.jpg" >}}
+{{< figure src="/images/inside.png" >}}
 
 Typescript
 

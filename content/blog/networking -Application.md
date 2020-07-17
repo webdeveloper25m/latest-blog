@@ -1,15 +1,15 @@
 ---
 title: "Networking Application"
 date: 2020-07-09T20:28:42-06:00
-tags: ["Steve", "article","networking"]
+tags: ["Steve", "article","networking","John"]
 images:
-  - /images/networking2.jpg
+  - /images/net.jpg
 categories: ["Networking","Cloud"]
-Author: "Author"
+Author: "John"
 draft: false
 ---
 
-{{< figure src="/images/networking2.jpg" >}}
+{{< figure src="/images/net.jpg" >}}
 
 Networking Application
 
