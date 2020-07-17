@@ -20,7 +20,7 @@ Bootstrap
 Introduction
 Get started with Bootstrap, the world’s most popular framework for building responsive, mobile-first sites, with BootstrapCDN and a template starter page.
 Quick start
-Looking to quickly add Bootstrap to your project? Use BootstrapCDN, provided for free by the folks at StackPath using a package manager. the source files Head to the downloads page.
+Looking to quickly add Bootstrap to your project? Use BootstrapCDN, provided for free by the folks at StackPath using a package manager the source files Head. to the downloads page.
 CSS
 Copy-paste the stylesheet <link> into your <head> before all other stylesheets to load our CSS.
 
