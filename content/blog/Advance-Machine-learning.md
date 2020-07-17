@@ -5,13 +5,13 @@ tags: ["Advanced-course","video","Mike","Machine Learning","linear-algebra","Num
 categories: ["Artificial Intelligence","Python"]
 Author: "Mike"
 images:
-  - /images/NEWAI.jpg
+  - /images/AItech.jpeg
 
 draft: false
 
 ---
 
-{{< figure src="/images/NEWAI.jpg" >}}
+{{< figure src="/images/AItech.jpeg" >}}
 
 Advance Machine Learning
 
@@ -19,12 +19,8 @@ Real-life examples of Machine Learning and how it affects society in ways you ma
 
 {{< youtube ukzFI9rgwfU >}}
 
-Advanced Machine Learning offers a deeper understanding of machine learning techniques and practices. It will expand your knowledge of advanced modeling methods like ensemble models, exemplified by random forests and boosted decision trees. 
-
-Under the guidance of our expert instructors, you'll practice a broader view of handling data and models, from feature engineering to model evaluation. Our Jupyter notebooks make it easy for our instructors to monitor and guide your progress while you're learning how to handle unstructured data using natural language processing. 
-
-Business Benefits
-Machine learning allows you to predict the future and understand the expansive amount of data you collect on a regular basis. The advanced skills taught in this class will give you the ability to provide new insights into your organization and products which will help improve revenue, reduce costs, create new opportunities, identify new ideas, improve the customer experience and more. Help your company become more data-driven with Advanced Machine Learning. 
+Advanced Machine Learning offers a deeper understanding of machine learning techniques and practices. It will expand your knowledge of advanced modeling methods like ensemble models, exemplified by random forests and boosted decision trees 
+Machine learning allows you to predict the future. and understand the expansive amount of data you collect on a regular basis. The advanced skills taught in this class will give you the ability to provide new insights into your organization and products which will help improve revenue, reduce costs, create new opportunities, identify new ideas, improve the customer experience and more. Help your company become more data-driven with Advanced Machine Learning. 
 
 Throughout the course, you'll work on a variety of individual projects designed to test your mastery of the topics covered. This course provides you with a place to work with real data sets to practice, develop, debug and deploy your newfound knowledge. 
 

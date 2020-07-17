@@ -5,11 +5,11 @@ tags: ["frontend-course","css","sass","Steve","stylesheets","Responsive"]
 categories: ["webdevelopment","Digital Marketing"]
 Author: "Steve"
 images:
-  - /images/css1.jpg
+  - /images/CSS.jpg
 draft: false
 ---
 
-{{< figure src="/images/css1.jpg" >}}
+{{< figure src="/images/CSS.jpg" >}}
 
 css3
 

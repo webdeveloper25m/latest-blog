@@ -6,11 +6,11 @@ tags: ["object-oriented","basic-course","python3","programming","Mike","pypy","m
 categories: ["Python"]
 Author: "Mike"
 images:
-  - /images/python1.jpg
+  - /images/pyth.jpg
 draft: false
 ---
 
-{{< figure src="/images/python1.jpg" >}}
+{{< figure src="/images/pyth.jpg" >}}
 
 Python3
 
@@ -24,12 +24,8 @@ Python logo and wordmark.svg
 Paradigm	Multi-paradigm: functional, imperative, object-oriented, structured, reflective
 Designed by	Guido van Rossum
 Developer	Python Software Foundation
-First appeared	1990; 30 years ago[1]
-Stable release	
-3.8.4 / 13 July 2020; 2 days ago[2]
-Preview release	
-3.9.0b4 / 3 July 2020; 12 days ago[3]
-Typing discipline	Duck, dynamic, gradual (since 3.5)[4]
+
+Stable release	Typing discipline	Duck, dynamic, gradual 
 OS	Linux, macOS, Windows Vista (and newer) and more
 License	Python Software Foundation License
 Filename extensions	.py, .pyi, .pyc, .pyd, .pyo (prior to 3.5),[5] .pyw, .pyz (since 3.5)[6]

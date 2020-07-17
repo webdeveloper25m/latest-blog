@@ -16,7 +16,7 @@ Networking Application
 Every organization is unique and their requirement too. When it comes to cloud, finding the simplified solution from the available tons of options enables customers to adapt fast through modularity and dynamically scale in and out in secured manner is the key.
 
 A network is a collection or set of computing devices connected to one another to establish communication and also share available resources. A network will comprise software and hardware devices You can have a network even if you are not connected to the internet Computer networks make it possible for people to transfer files from one place to another and to communicate taking the shortest time possible
-Computer network applications are network software applications that utilize the Internet. or other network hardware infrastructure to perform useful functions for example file transfers within a network. They help us to transfer data from one point to another within the network
+Computer network applications are network software applications that utilize the Internet or other network hardware infrastructure. to perform useful functions for example file transfers within a network. They help us to transfer data from one point to another within the network
 There are 2 types of network applications
 
 Pure network applications

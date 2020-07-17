@@ -6,13 +6,13 @@ tags: ["frontend","Bootstrap","css","html","Steve","framework","stylesheets"]
 categories: ["Digital Marketing","webdevelopment"]
 Author : "Steve"
 images:
-  - /images/boot1.jpg
+  - /images/boot01.jpg
 
 draft: false
 
 ---
 
-{{< figure src="/images/boot1.jpg" >}}
+{{< figure src="/images/boot01.jpg" >}}
 
 Bootstrap
 

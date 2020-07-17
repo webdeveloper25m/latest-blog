@@ -5,7 +5,7 @@ tags: ["Video","Machine Learning","python3","Travis","Regression","Clustering","
 categories: ["Artificial Intelligence","Python"]
 Author: "Travis"
 images:
-  - /images/mpy1.png
+  - /images/mpy.png
 draft: false
 
 ---
@@ -18,7 +18,7 @@ This Machine Learning with Python course dives into the basics of machine learni
 
 {{< youtube OGxgnH8y2NM >}}
 
-Machine Learning, a prominent topic in Artificial Intelligence domain, has been in the spotlight for quite some time now. This area may offer an attractive opportunity, and starting a career in it is not as difficult as it may seem at first glance  Even if you have zero-experience in math or programming. it is not a problem. The most important element of your success is purely your own interest and motivation to learn all those things.
+Machine Learning, a prominent topic in Artificial Intelligence domain, has been in the spotlight for quite some time now. This area may offer an attractive opportunity, and starting a career in it is not as difficult as it may seem at first glance  Even if you have zero-experience in math or programming it is not a problem The most important element of your success. is purely your own interest and motivation to learn all those things.
 If you are a newcomer, you do not know where to start studying and why you need Machine Learning and why it is gaining more and more popularity lately, you got into the right place! I’ve gathered all the needed information and useful resources to help you gain new knowledge and accomplish your first projects.
 Why Starting With Python?
 If your aim is growing into a successful coder, you need to know a lot of things. But, for Machine Learning & Data Science, it is pretty enough to master at least one coding language and use it confidently. So, calm down, you don’t have to be a programming genius.

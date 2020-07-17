@@ -5,10 +5,10 @@ tags: ["neural networks","video","Deep Learning","Mike","NVIDIA","Convolutional 
 categories: ["Artificial Intelligence","Python"]
 Author: "Mike"
 images:
-  - /images/deeplearning.jpg
+  - /images/deeplearning01.jpg
 ---
 
-{{< figure src="/images/deeplearning.jpg" >}}
+{{< figure src="/images/deeplearning01.jpg" >}}
 
 Advance Deep Learning
 

@@ -1,7 +1,7 @@
 ---
 title: "Sass"
 date: 2020-07-10T19:42:35+05:30
-tags: ["front end","sass","css","style sheet","Steve","scripting language"]
+tags: ["front end","sass","css","style sheet","Steve","scripting language",""]
 categories: ["webdevelopment"]
 Author : "Steve"
 images:

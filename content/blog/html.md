@@ -6,11 +6,11 @@ tags: ["frontend","html","Document","Steve","markup","script","doctype","canvas"
 categories: ["webdevelopment"]
 Author: "Steve"
 images:
-  - /images/html.png
+  - /images/html.jpg
 draft: false
 ---
 
-{{< figure src="/images/html.png" style="width: 100%">}}
+{{< figure src="/images/html.jpg" style="width: 100%">}}
 
 HTML
 

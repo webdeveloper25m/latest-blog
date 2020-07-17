@@ -6,11 +6,11 @@ tags: ["Mark", "article","sdn","networking","John","Cisco","OpenFlow","IBN","Clo
 categories: ["Networking"]
 Author: "John"
 images:
-  - /images/sdn2.jpg
+  - /images/sdn.png
 draft: false
 ---
 
-{{< figure src="/images/sdn2.jpg" >}}
+{{< figure src="/images/sdn.png" >}}
 
 SDN
 
@@ -20,11 +20,7 @@ What is SDN and where software-defined networking is going
 Software-defined networking (SDN) established a foothold in cloud computing, intent-based networking, and network security, with Cisco, VMware, Juniper and others leading the charge.
      
 Michael CooneyBy Michael Cooney
-Senior Editor, Network World | APR 16, 2019 3:00 AM PDT
-
-What SDN is and where it’s going
-seedkin / Getty Images
-Hardware reigned supreme in the networking world until the emergence of software-defined networking (SDN), a category of technologies that separate the network control plane from the forwarding plane to enable more automated provisioning and policy-based management of network resources.
+Senior Editor, Network World | APR 16, 2019 3:00 AM PDT Hardware reigned supreme in the networking world until the emergence of software-defined networking. (SDN), a category of technologies that separate the network control plane from the forwarding plane to enable more automated provisioning and policy-based management of network resources.
 
 SDN's origins can be traced to a research collaboration between Stanford University and the University of California at Berkeley that ultimately yielded the OpenFlow protocol in the 2008 timeframe. 
 

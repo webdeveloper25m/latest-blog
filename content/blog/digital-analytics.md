@@ -5,12 +5,12 @@ tags: ["Video","Digital","Analytics","digital data","Digital Intelligence",""]
 categories: ["Digital Marketing","Webdevelopment"]
 Author: "John"
 images:
-  - /images/digital.jpg
+  - /images/digital1.jpg
 draft: false
 
 ---
 
-{{< figure src="/images/digital.jpg" >}}
+{{< figure src="/images/digital1.jpg" >}}
 
 Digital Analytics
 

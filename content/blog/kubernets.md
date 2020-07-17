@@ -5,11 +5,11 @@ tags: ["kubernetes","video","container","Mike","deployment","open-source"]
 categories: ["Cloud","Python"]
 Author: "Mike"
 images:
-  - /images/kubernets1.jpg
+  - /images/kuber.png
 draft: false1
 ---
 
-{{< figure src="/images/kubernets1.jpg" >}}
+{{< figure src="/images/kuber.png" >}}
 
 Kubernets
 
@@ -21,7 +21,7 @@ Kubernetes(K8s) is an open-source system for automating deployment, scaling, and
 images/flower.svg
 Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
 It groups containers that make up an application into logical units for easy management and discovery. Kubernetes builds upon 15 years of experience of running production workloads at Google, combined with best-of-breed ideas and practices from the community
-Designed on the same principles that allows Google to run billions of containers a week, Kubernetes can scale without increasing your ops..
+Designed. on the same principles that allows Google to run billions of containers a week Kubernetes can scale without increasing your ops..
 
 Whether testing locally or running a global enterprise, Kubernetes flexibility grows with you to deliver your applications consistently and easily no matter how complex your need is.
 
